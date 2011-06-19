@@ -1,0 +1,67 @@
+	INDICE DEI PROGRAMMI PRESENTI NELLE VARIE LEZIONI
+
+Lezione 1:
+
+	-Conta caratteri
+	-Calcola la lunghezza di una stringa
+	-Stampa il corrispondente codice Ascii del carattere letto
+
+Lezione 2:
+
+	-Stampa la dimensione dei vari tipi di dato
+	-Converte file di testo scritti in windows per Unix
+	-Stampa la linea piu` lunga
+
+Lezione 3:
+
+	-Modifica set di bits
+	-Converte una stringa in un numero
+	-Converte i caratteri upper in lower all'interno di una stringa
+
+Lezione 4:
+
+	-Converte un intero in una stringa
+	-Conta caratteri, parole, linee e spazi vuoti in un file
+	-Uso di if innestati
+	-Stampa il max tra due numeri usando un operatore ternario
+	-Rimuove gli spazi vuoti, le tabulazioni e le andate a capo in un testo
+	-Inverte i caratteri Upper in Lower e vicerversa usando un operatore ternario
+
+Lezione 5:
+
+	-Cerca un carattere all'interno di una stringa data
+	-Cerca una sottostringa all'interno di una stringa data
+	-Converte una stringa in un numero float
+
+Lezione 6:
+
+	-Macro swap
+
+Lezione 7:
+
+	-Conta i caratteri numerici all'interno di una stringa
+	-Conta il numero di occorrenze di una stringa in un' altra
+	-Rimpiazza parte di una stringa con un' altra stringa
+	-Rimuove i commenti all'interno di un codice C
+
+Lezione 8:
+
+	-Inserita un data, restituisce il numero di giorni dall'inizio dell'anno fino alla data
+	-Costruisce la matrice diagonale dato un vettore
+	-(head) Stampa su video le prime n linee di un file
+	-Fa la trasposta di una matrice
+	-(minicut) Stampa l'ennesimo campo dato un delimitatore con e senza l'aiuto della funzione getopt
+	-(minigrepV2) Versione semplificata di grep
+	-Prodotto tra matrici
+	-Prodotto tra uno scalare e una matrice
+	-Prodotto tra un vettore e una matrice
+	-Somma di matrici
+	-Comando wc
+
+Lezione 9:
+
+	-Costruisce un rettangolo e ne calcola l'area
+
+Misto:
+
+	-Cerca e stampa le parole comuni tra due file
