@@ -1,3 +1,5 @@
+//Da controllare
+
 #include<stdio.h>
 #include <string.h>
 
